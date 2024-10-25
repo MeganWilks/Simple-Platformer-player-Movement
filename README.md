@@ -6,3 +6,5 @@ This is a movement script I have created using Microsoft Visual studio and Unity
 3) Click the ground layer and apply it to the script
 4) Drag the players groundcheck and add it into the transform section of the script
 Credits to Bendux for help with the script his channel is: https://www.youtube.com/@bendux
+
+Above you can either install the Unity Package or just the code itself
